@@ -1,3 +1,9 @@
+To run my application 
+
+Step 1: Install node module:- npm i
+Step 2: Install DatePicker :- npm install react-datepicker --save
+Step 3: npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
